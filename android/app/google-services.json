@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "450594127609",
+    "project_id": "trippo-9b658",
+    "storage_bucket": "trippo-9b658.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450594127609:android:93287d585b887371c7ec28",
+        "android_client_info": {
+          "package_name": "com.egoncastle.users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATL-AeQjVJZalFRh9qC88w6KD6TmFGBSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
